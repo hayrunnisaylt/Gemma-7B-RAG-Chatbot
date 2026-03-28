@@ -1,0 +1,11 @@
+{
+    "tool": "Playwright_BTU",
+    "start_url": "https://btu.edu.tr/",
+    "execution_time_seconds": 498.37,
+    "cpu_percent_max": 87.5,
+    "memory_usage_mb_max": 1270.4,
+    "pages_crawled": 500,
+    "pdfs_found": 29,
+    "success": true,
+    "error": null
+}
